@@ -1,7 +1,9 @@
 # 計算機圖學期末專題
 ## 主要利用OpenGL來實作-3D射擊遊戲
-使用套件:<br>
-FreeGlut、glm、glew、stb-master(材質導入)
+**使用套件:**<br>
+FreeGlut、glm、glew、stb-master(材質導入)<br>
+
+**遊戲介紹:**<br>
 按下左鍵射擊，子彈擊中物體消失<br>
 按下ESC鍵退出遊戲<br>
 按下右鍵可以開鏡，再次按下退出<br>
