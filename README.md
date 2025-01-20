@@ -1,5 +1,8 @@
 # 計算機圖學期末專題
 ## 主要利用OpenGL來實作-3D射擊遊戲
+
+**使用語言:**<br>
+C++<br>
 **使用套件:**<br>
 FreeGlut、glm、glew、stb-master(材質導入)<br>
 
