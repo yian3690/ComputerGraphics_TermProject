@@ -15,5 +15,9 @@ FreeGlut、glm、glew、stb-master(材質導入)<br>
 右上角顯示時間，時間用完遊戲結束<br>
 打破箱子可以增加秒數，箱子會在地圖上隨機生成<br>
 敵人有爆頭判定，頭部一發死，其他部位要三發<br>
-遊戲結束會跳至結束畫面<br>
+遊戲結束會跳至結束畫面<br><br>
 
+**遊戲畫面:**<br>
+![1](https://github.com/user-attachments/assets/7a0ab43f-e42d-40ae-8bae-1068b13e97e3)<br>
+![2](https://github.com/user-attachments/assets/a73ebfbb-8a27-4c6f-a753-bb617a06aa37)<br>
+![3](https://github.com/user-attachments/assets/eb393d42-8464-4602-8dbc-70528517766c)<br>
